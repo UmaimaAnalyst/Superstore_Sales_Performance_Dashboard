@@ -47,8 +47,8 @@ The `Orders by Year` slicer at the top lets users filter the entire dashboard to
 3.  Refer to `dashboard_screenshot.png` for a preview
    
 ## demo/ screanshort 
-shows what the dashboard looks like
-https://github.com/UmaimaAnalyst/Superstore_Sales_Performance_Dashboard/blob/main/superstore%20dashboard%201.jpeg
+shows what the dashboard looks like - ![image](https://github.com/user-attachments/assets/...)
+example : https://github.com/UmaimaAnalyst/Superstore_Sales_Performance_Dashboard/blob/main/superstore%20dashboard%201.jpeg
 
 ## 🎓 About Me
 I'm Umaima Nawaz, B.Com Computer Applications '24.  
