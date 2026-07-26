@@ -45,9 +45,7 @@ The `Orders by Year` slicer at the top lets users filter the entire dashboard to
 1.  Open `Superstore_Sales_Dashboard.xlsx`
 2.  Use the `Orders by Year` slicer to filter all charts
 3.  Refer to `dashboard_screenshot.png` for a preview
-   
-## demo/ screanshort 
-![Superstore Sales Dashboard](./superstore%20dashboard%201.jpeg)
+
 
 ## 🎓 About Me
 I'm Umaima Nawaz, B.Com Computer Applications '24.  
